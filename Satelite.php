@@ -31,7 +31,7 @@
     <?php include 'header.html'; ?>                                                                                                                                                 
     </header>                                                                                                                                               
     <!--//header-->                                                                                                                                             
-    <div class="banner-inner-celular">                                                                                                                                              
+    <div class="banner-inner-satelite">                                                                                                                                              
     </div>                                                                                                                                              
     <ol class="breadcrumb">                                                                                                                                             
         <li class="breadcrumb-item">                                                                                                                                                
@@ -64,7 +64,7 @@
                                                                                                                                                     
                 </div>                                                                                                                                              
             </div>                                                                                                                                              
-            <div class="col-md-6 style-image-2" data-aos="fade-right">                                                                                                                                              
+            <div class="col-md-6 style-image-satelite" data-aos="fade-right">                                                                                                                                              
             </div>                                                                                                                                              
                                                                                                                                                         
                                                                                                                                                         
@@ -73,7 +73,7 @@
         <br>                                                                                                                                                
            <br>                                                                                                                                             
         <div class="row style-grids_main">                                                                                                                                              
-                <div class="col-md-6 style-image-2 second" data-aos="fade-right">                                                                                                                                               
+                <div class="col-md-6 style-image-2 satelite" data-aos="fade-right">                                                                                                                                               
                     </div>                                                                                                                                              
                     <div class="col-md-6 grid_sec_info">                                                                                                                                                
                         <div class="style-grid-2-text_info" data-aos="fade-right">                                                                                                                                              
@@ -82,7 +82,10 @@
                                         celulares terrestres, las grandes áreas continentales y, sobre todo, marítimas con cobertura                                                                                                                                                
                                         limitada o sin ningún tipo de infraestructura de telecomunicaciones y los servicios                                                                                                                                             
                                         aeronáuticos sin aplicaciones globales son los principales argumentos impulsores de los                                                                                                                                             
-                                        llamado Servicios Móviles por Satélite (MSS).</p>                                                                                                                                               
+                                        llamado Servicios Móviles por Satélite (MSS).</p>
+                                        <p>
+                                        La comunicación satelital aumenta la cobertura en zonas donde la red celular no está
+                                       disponible o no es fiable, al igual que puede reducir las costosas tarifas de itinerancia celular.</p>                                                                                                                                               
                                                                                                                                                                             
                                                                                                                                                         
                         </div>                                                                                                                                              
