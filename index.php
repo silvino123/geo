@@ -92,7 +92,7 @@
     </div>
     </section>
     
-    <section class="services">
+    <!-- <section class="services">
         <div class="container">
             <h3 class="tittle">Nuestras Soluciones Tecnológicas </h3>
             <div class="row inner-sec-wthree">
@@ -143,7 +143,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
    
     <section class="stats_test container-fluid">
     <h3 class="tittle">Nuestras Soluciones Tecnológicas </h3>
