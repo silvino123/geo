@@ -82,7 +82,10 @@
                                         celulares terrestres, las grandes áreas continentales y, sobre todo, marítimas con cobertura                                                                                                                                                
                                         limitada o sin ningún tipo de infraestructura de telecomunicaciones y los servicios                                                                                                                                             
                                         aeronáuticos sin aplicaciones globales son los principales argumentos impulsores de los                                                                                                                                             
-                                        llamado Servicios Móviles por Satélite (MSS).</p>                                                                                                                                               
+                                        llamado Servicios Móviles por Satélite (MSS).</p>
+                                        <p>
+                                        La comunicación satelital aumenta la cobertura en zonas donde la red celular no está
+                                       disponible o no es fiable, al igual que puede reducir las costosas tarifas de itinerancia celular.</p>                                                                                                                                               
                                                                                                                                                                             
                                                                                                                                                         
                         </div>                                                                                                                                              
