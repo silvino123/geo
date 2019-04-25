@@ -527,10 +527,20 @@ h4.sub-tittle {
     background-color: #f5f5f5;
     transition: all 0.3s ease-out 0s;
 }
-
+.icon_info2 {
+    text-align: left;
+    padding: 1em 2em;
+    border: 3px solid #f5f5f5;
+    background-color: #f5f5f5;
+    transition: all 0.3s ease-out 0s;
+}
 
 .grid_info_main i {
     font-size: 2em;
+    color: #333;
+}
+.grid_info_main2 i {
+    font-size: 1.5em;
     color: #333;
 }
 
@@ -815,6 +825,14 @@ h4.sub-tittle {
     background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/satelite.jpeg) no-repeat;
     background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/satelite.jpeg) no-repeat;
     background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/satelite.jpeg) no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+.banner-inner-Dualmode {
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/dual.jpeg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/dual.jpeg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/dual.jpeg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/dual.jpeg) no-repeat;
     background-size: cover;
     min-height: 600px;
 }

@@ -91,59 +91,7 @@
          </div>                 
     </div>                  
     </section>                  
-
-    <!-- <section class="services">                 
-        <div class="container">                 
-            <h3 class="tittle">Nuestras Soluciones Tecnológicas </h3>                   
-            <div class="row inner-sec-wthree">                  
-                <div class="col-lg-4 grid_info_main" data-aos="flip-left">                  
-                    <div class="grid_info">                 
-                        <div class="icon_info">                 
-                            <span class="icon">                 
-								<i class="far fa-check-circle"></i>                 
-							</span>                 
-                            <h5 style="color:#ff6a00">REDES</h5>                    
-                            <p>TEXTO</p>                    
-                        </div>                  
-                    </div>                  
-                    <div class="grid_info second">                  
-                        <div class="icon_info">                 
-                            <span class="icon">                 
-								<i class="far fa-check-circle"></i>                 
-							</span>                 
-                            <h5 style="color:#ff6a00">HARDWARE</h5>                 
-                            <p>TEXTO</p>                    
-                        </div>                  
-                    </div>                  
-                </div>                  
-                <div class="col-lg-4 grid_info_main mid" data-aos="flip-down">                  
-                    <img src="images/celular.jpeg" class="img-fluid" alt=" " style="width:380px;height:540px">                  
-                </div>                  
-                <div class="col-lg-4 grid_info_main" data-aos="flip-right">                 
-                    <div class="grid_info">                 
-                        <div class="icon_info">                 
-                            <span class="icon">                 
-								<i class="far fa-check-circle"></i>                 
-							</span>                 
-                            <h5 style="color:#ff6a00">SOLUCIONES</h5>                   
-                            <p>TEXTO</p>                    
-                        </div>                  
-                    </div>                  
-                    <div class="grid_info second">                  
-                        <div class="icon_info">                 
-                            <span class="icon">                 
-								<i class="far fa-check-circle"></i>                 
-							</span>                 
-                            <h5 style="color:#ff6a00">INDUSTRIA</h5>                    
-                            <p>TEXTO</p>                    
-                        </div>                  
-                    </div>                  
-                </div>                  
-
-
-            </div>                  
-        </div>                  
-    </section> -->                  
+                 
 
     <section class="stats_test container-fluid">                    
     <h3 class="tittle">Nuestras Soluciones Tecnológicas </h3>                   

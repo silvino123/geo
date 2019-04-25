@@ -5,7 +5,7 @@
 <html>                                                                                                                                              
                                                                                                                                                 
 <head>                                                                                                                                              
-    <title>Geocommsa-Satelite</title>                                                                                                                                               
+    <title>Geocommsa-Modo-dual</title>                                                                                                                                               
     <meta name="viewport" content="width=device-width, initial-scale=1">                                                                                                                                                
     <meta charset="utf-8">                                                                                                                                              
     <meta name="Geocommsa" content="" />                                                                                                                                                
@@ -31,7 +31,7 @@
     <?php include 'header.html'; ?>                                                                                                                                                 
     </header>                                                                                                                                               
     <!--//header-->                                                                                                                                             
-    <div class="banner-inner-satelite">                                                                                                                                              
+    <div class="banner-inner-Dualmode">                                                                                                                                              
     </div>                                                                                                                                              
     <ol class="breadcrumb">                                                                                                                                             
         <li class="breadcrumb-item">                                                                                                                                                
@@ -40,60 +40,148 @@
         <li class="breadcrumb-item ">                                                                                                                                               
                 <a href="Celular.php">Celular</a>                                                                                                                                               
                 </li>                                                                                                                                               
-        <li class="breadcrumb-item active">                                                                                                                                             
-                Satelite                                                                                                                                                
+        <li class="breadcrumb-item ">                                                                                                                                             
+               <a href="Satelite.php"> Satelite</a>                                                                                                                                             
             </li>                                                                                                                                               
-            <li class="breadcrumb-item">                                                                                                                                                
-                    <a href="Dualmode.php">Dual-Mode</a>                                                                                                                                                
+            <li class="breadcrumb-item active">                                                                                                                                                
+                    Dual-Mode                                                                                                                                             
                 </li>                                                                                                                                               
     </ol>                                                                                                                                               
     <!--//banner-->                                                                                                                                             
-	<section class="grids_sec_2">                                                                                                                                               
-            <h3 class="tittle">Redes M2M por satélite</h3>                                                                                                                                              
-            <br>                                                                                                                                                
-        <div class="row style-grids_main">                                                                                                                                              
-            <div class="col-md-6 grid_sec_info">                                                                                                                                                
-                <div class="style-grid-2-text_info" data-aos="fade-right">                                                                                                                                              
-                    <h4 style="color:#ff8000">Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide                                                                                                                                                
-                            la distancia..</h4>                                                                                                                                             
-                    <p>GEOCOMMSA cuenta con el apoyo de la mayor empresa a nivel global en lo que se refriere                                                                                                                                               
-                            al suministro de servicios de comunicaciones via satelitales, a de mas de ser líder global de                                                                                                                                               
-                            IoT que opera la única red de satélites comercial 100% dedicada a M2M, lo que nos permite                                                                                                                                               
-                            brindar la oferta de servicios más segura, confiable y completa de la industria.</p>                                                                                                                                                
-                                                                                                                                                                    
-                                                                                                                                                    
-                </div>                                                                                                                                              
-            </div>                                                                                                                                              
-            <div class="col-md-6 style-image-satelite" data-aos="fade-right">                                                                                                                                              
-            </div>                                                                                                                                              
-                                                                                                                                                        
-                                                                                                                                                        
-                                                                                                                                                    
-        </div>                                                                                                                                              
-        <br>                                                                                                                                                
-           <br>                                                                                                                                             
-        <div class="row style-grids_main">                                                                                                                                              
-                <div class="col-md-6 style-image-2 satelite" data-aos="fade-right">                                                                                                                                               
-                    </div>                                                                                                                                              
-                    <div class="col-md-6 grid_sec_info">                                                                                                                                                
-                        <div class="style-grid-2-text_info" data-aos="fade-right">                                                                                                                                              
-                                                                                                                                                                        
-                                <p>la gran demanda de telecomunicaciones móviles globales, la diversidad de estándares                                                                                                                                              
-                                        celulares terrestres, las grandes áreas continentales y, sobre todo, marítimas con cobertura                                                                                                                                                
-                                        limitada o sin ningún tipo de infraestructura de telecomunicaciones y los servicios                                                                                                                                             
-                                        aeronáuticos sin aplicaciones globales son los principales argumentos impulsores de los                                                                                                                                             
-                                        llamado Servicios Móviles por Satélite (MSS).</p>
-                                        <p>
-                                        La comunicación satelital aumenta la cobertura en zonas donde la red celular no está
-                                       disponible o no es fiable, al igual que puede reducir las costosas tarifas de itinerancia celular.</p>                                                                                                                                               
-                                                                                                                                                                            
-                                                                                                                                                        
-                        </div>                                                                                                                                              
-                    </div>                                                                                                                                              
-        </div>                                                                                                                                              
-                                                                                                                                                    
-    </section>                                                                                                                                              
-                                                                                                                                                    
+	<section class="banner-bottom">     
+            <div class="container">     
+                    <h3 class="tittle">Usamos Cobertura de red M2M de modo dual</h3>     
+                <!-- Three columns of text below the carousel -->       
+                <div class="row inner-sec-wthree">      
+             
+                    <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">      
+                        <h4 style="color:#ff8000">Comunicación y Seguimiento Satélite-Celular para unir la mejor comunicación en todo el mundo</h4>     
+                        <br>        
+                        <p>GEOCOMMSA es una empresa con alianzas estratégicas con los proveedores de comunicaciones satélite globales y cobertura de red celular, lo que nos permite unir lo mejor de la tecnología en comunicación y trasmisión de datos de los dos mundos en la gestión de flotas y en el seguimiento de activos de la industria de modo dual M2M.</p>      
+                       
+                    </div> 
+                    
+                    <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">     
+                            
+                        <img src="images/dualmode.jpeg" alt="" class="img-fluid">        
+                            
+                    </div>      
+                                
+                </div>      
+                <div class="row inner-sec-wthree">      
+            
+                        <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
+                            <h4 style="color:#ff8000">¿Por qué optar el modo dual?</h4>        
+                
+                        </div>      
+                        <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
+                            <p>Los administradores y operadores de flotas están buscando cada vez y con más frecuencia dispositivos celulares-satélite para el rastreo de sus activos que entran y salen de zonas de cobertura celular.</p>     
+                                    
+                        </div>      
+                    </div>      
+                        
+            </div>      
+            <!-- /.row -->      
+        </section>                                                                                                                                                    
+         
+    <section class="services">                 
+        <div class="container">                 
+            <h3 class="tittle">¿Por qué motivos?</h3>                   
+            <div class="row inner-sec-wthree">                  
+                <div class="col-lg-7 grid_info_main2" data-aos="zoom-in">                  
+                    <div class="grid_info">                 
+                                  
+                            <span class="icon">                 
+								<i class="far fa-check-circle">&nbsp;1.Gane cobertura global completa</i>                 
+							</span>                 
+                                    
+                    </div>                  
+                                    
+                </div>                  
+                                 
+                <div class="col-lg-5 grid_info_main" data-aos="zoom-in">                 
+                    <div class="grid_info">                 
+                        <div class="icon_info2">                 
+                                             
+                        <p>Elimine los puntos ciegos de la red y evite los costosos cargos por cortes en el servico celular.</p>                    
+                        </div>                  
+                    </div>                  
+                                   
+                </div>                  
+               
+            </div> 
+            <!-- motivo2 -->
+            <div class="row inner-sec-wthree">                  
+                <div class="col-lg-7 grid_info_main2" data-aos="zoom-in">                  
+                    <div class="grid_info">                 
+                                       
+                            <span class="icon">                 
+								<i class="far fa-check-circle">&nbsp;2.Bajo costo con enrutamiento automático que le permite ahorros</i>                 
+							</span>                 
+                                      
+                    </div>                  
+                                    
+                </div>                  
+                                 
+                <div class="col-lg-5 grid_info_main" data-aos="zoom-in">                 
+                    <div class="grid_info">                 
+                        <div class="icon_info2">                 
+                                             
+                        <p>Cambie de forma automática entre la cobertura celular cuando esté disponible y la cobertura satélite en zonas remotas para ahorro en costos.</p>                    
+                        </div>                  
+                    </div>                  
+                                   
+                </div>                  
+               
+            </div> 
+            <!-- motivo3 -->
+            <div class="row inner-sec-wthree">                  
+                <div class="col-lg-7 grid_info_main2" data-aos="zoom-in">                  
+                    <div class="grid_info">                 
+                                       
+                            <span class="icon">                 
+								<i class="far fa-check-circle">&nbsp;3.Comunicaciones oportunas </i>                 
+							</span>                 
+                                       
+                    </div>                  
+                                    
+                </div>                  
+                                 
+                <div class="col-lg-5 grid_info_main" data-aos="zoom-in">                 
+                    <div class="grid_info">                 
+                        <div class="icon_info2">                 
+                                             
+                        <p>Los dispositivos versátiles de modo dual de GEOCOMMSA permiten su programación o configurar para enviar y recibir mayores cantidades de datos en la ciudad y zonas urbanas y proporcionan un enlace de comunicaciones muy importante fuera de la red celular.</p>                    
+                        </div>                  
+                    </div>                  
+                                   
+                </div>                  
+               
+            </div> 
+            <!-- motivo4 -->
+            <div class="row inner-sec-wthree">                  
+                <div class="col-lg-7 grid_info_main2" data-aos="zoom-in">                  
+                    <div class="grid_info">                 
+                            <span class="icon">                 
+								<i class="far fa-check-circle">&nbsp;Protección total ante la congestión de la red y las condiciones climatologías</i>                 
+						              
+                    </div>                  
+                                    
+                </div>                  
+                                 
+                <div class="col-lg-5 grid_info_main" data-aos="zoom-in">                 
+                    <div class="grid_info">                 
+                        <div class="icon_info2">                 
+                                             
+                        <p>Realice el seguimiento de los vehículos y activos independientemente de la congestión de la red celular por el mal tiempo u otras circunstancias del área geográfica de que se trate.</p>                    
+                        </div>                  
+                    </div>                  
+                                   
+                </div>                  
+               
+            </div> 
+        </div>                  
+    </section>                                                                                                                                            
     <!--footer-->                                                                                                                                               
     <?php include 'footer.html'; ?>                                                                                                                                                 
     <!---->                                                                                                                                             

@@ -59,7 +59,7 @@
                     </div>      
                             
                     <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
-                        <h4 style="color:#ff6a00">Cobertura de red celular M2M</h4>     
+                        <h4 style="color:#ff8000">Cobertura de red celular M2M</h4>     
                         <br>        
                         <p>GEOCOMMSA proporciona servicios de los mayores proveedores globales de red celular, ofreciendo planes de datos económicos en una variedad de redes (2G, 3G, 4G) para satisfacer sus necesidades únicas.</p>      
                         <p>Con una oferta completa de opciones de cobertura de red celular M2M, GEOCOMMSA le brinda la solución perfecta al costo adecuado para satisfacer sus necesidades de seguimiento remoto con cobertura completa en todos los rincones y espacios abiertos del mundo.</p>        
@@ -68,7 +68,7 @@
                 <div class="row inner-sec-wthree">      
             
                         <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
-                            <h4 style="color:#ff6a00">Socios celulares y servicios para M2M</h4>        
+                            <h4 style="color:#ff8000">Socios celulares y servicios para M2M</h4>        
                 
                         </div>      
                         <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
