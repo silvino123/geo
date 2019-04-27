@@ -32,6 +32,7 @@
     </header>                                                                                                                                               
     <!--//header-->                                                                                                                                             
     <div class="banner-inner-Dualmode">                                                                                                                                              
+    
     </div>                                                                                                                                              
     <ol class="breadcrumb">                                                                                                                                             
         <li class="breadcrumb-item">                                                                                                                                                
@@ -92,7 +93,7 @@
                     <div class="grid_info">                 
                                   
                             <span class="icon">                 
-								<i class="far fa-check-circle">&nbsp;1.Gane cobertura global completa</i>                 
+								<i class="far fa-check-circle" >&nbsp;1.Gane cobertura global completa</i>                 
 							</span>                 
                                     
                     </div>                  

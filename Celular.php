@@ -32,7 +32,8 @@
     </header>       
     <!--//header-->     
     <div class="banner-inner-celular">      
-    </div>      
+	
+     </div>      
     <ol class="breadcrumb">     
         <li class="breadcrumb-item">        
             <a href="index.php">Inicio</a>      
@@ -99,7 +100,7 @@
 						</a>        
 					</div>      
 					<div class="section_1_gallery_grid" data-aos="zoom-in">     
-						<a  href="images/movistar.png">     
+						<a  href="images/movistar.png" title="Movistar ​​ es un empresa de telecomunicaciones filial de Telefónica.">     
 							<div class="section_1_gallery_grid1">       
 								<img src="images/movistar.png" alt=" " class="img-responsive" />        
 								<div class="proj_gallery_grid1_pos">        
@@ -110,7 +111,7 @@
 						</a>        
 					</div>      
 					<div class="section_1_gallery_grid" data-aos="zoom-in">     
-						<a  href="images/at.jpg">       
+						<a  href="images/at.jpg" title="AT&T Mobility es el segundo mayor proveedor en Estados Unidos y Puerto Rico, con más de 100 millones de suscriptores.">       
 							<div class="section_1_gallery_grid1">       
 								<img src="images/at.jpg" alt=" " class="img-responsive" />      
 								<div class="proj_gallery_grid1_pos">        
@@ -123,7 +124,7 @@
 				</div>      
 				<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
 					<div class="section_1_gallery_grid">        
-						<a  href="images/telefonica.png">       
+						<a  href="images/telefonica.png" title="Telefónica opera en Europa, América Latina, América del Norte y Asia y es el quinto mayor proveedor de telefonía móvil en el mundo.">       
 							<div class="section_1_gallery_grid1">       
 								<img src="images/telefonica.png" alt=" " class="img-responsive" />      
 								<div class="proj_gallery_grid1_pos">        
@@ -145,7 +146,7 @@
 						</a>        
 					</div>      
 					<div class="section_1_gallery_grid" data-aos="zoom-in">     
-						<a title="" href="images/rogers.png">       
+						<a title="Rogers Communications es el proveedor más grande de servicios inalámbricos de comunicaciones de voz y datos de Canadá." href="images/rogers.png">       
 							<div class="section_1_gallery_grid1">       
 								<img src="images/rogers.png" alt=" " class="img-responsive" />      
 								<div class="proj_gallery_grid1_pos">        
@@ -158,7 +159,7 @@
 				</div>      
 				<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
 					<div class="section_1_gallery_grid">        
-						<a  href="images/orange.png">       
+						<a  href="images/orange.png" title="Orange es uno de los principales operadores de telecomunicaciones del mundo, con una base de clientes total de 247 millones de clientes en todo el mundo.">       
 							<div class="section_1_gallery_grid1">       
 								<img src="images/orange.png" alt=" " class="img-responsive" />      
 								<div class="proj_gallery_grid1_pos">        
