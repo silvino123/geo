@@ -128,22 +128,24 @@
 
                     </a></p>                     
             </div>                  
-            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
+            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
+            <i class="far fa-check-circle" style="color:#ff8000"> INDUSTRIA</i>                 
+                <h4 style="color:#333">Equipo Pesado</h4>                    
+                <p>GEOCOMMSA permite realizar el seguimiento, gestione y controle las flotas de equipos pesados.
+                <a  href="EquipoPesado.php">ver más...</a>
+                </p>                
+                                
+            </div>                  
+            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
                 <h4 style="color:#333"></h4>                 
-                <p>TEXTO</p>                    
+                <p>TEXTO</p>                
+                               
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
             <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 
                 <h4 style="color:#333"></h4>                   
-                <p>TEXTO</p>                    
-            </div>                  
-            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <i class="far fa-check-circle" style="color:#ff8000"> INDUSTRIA</i>                 
-                <h4 style="color:#333">Equipo Pesado</h4>                    
-                <p>GEOCOMMSA permite realizar el seguimiento, gestione y controle las flotas de equipos pesados de construcción, minería, agricultura, marítimo y servicios a la medida de las necesidades de nuestros clientes en lo referente al IiOT y Telemetria.
-                <a  href="EquipoPesado.php">ver más...</a>
-                </p>                    
+                <p>TEXTO</p>               
             </div>                  
         </div>                  
     </div>                  
