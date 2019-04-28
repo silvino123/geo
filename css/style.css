@@ -1571,6 +1571,12 @@ a.facebook2:hover {
     .reviews_sec {
         padding: 2em 0;
     }
+    @media(max-width:410px) {
+        .banner-bottom,
+        .services,
+        .reviews_sec {
+            padding: 2em 0;
+        }
     @media(max-width:414px) {
         .banner-inner-celular
          {

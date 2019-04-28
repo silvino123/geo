@@ -82,7 +82,7 @@
                  <!-- <img src="images/geocomssa.gif" style="width: 300px;height: 80px" class="img-responsive"> -->                 
                  <br>                   
                  <p>Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de la empresas.</p>                    
-
+                 <a  href="about.php">ver más...</a>
                 </div>                  
         <div class="col-lg-5 bt-bottom-info" data-aos="fade-left">                  
         <img src="images/edificio.jpg" alt="" class="img-fluid">                    
