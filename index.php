@@ -78,7 +78,7 @@
     <div class="container">                 
           <div class="row inner-sec-wthree">                    
             <div class="col-lg-7 bt-bottom-info" data-aos="fade-right">                 
-              <h4 style="color:#ff6a00">GEOCOMMSA</h4>                  
+              <h4 style="color:#ff8000">GEOCOMMSA</h4>                  
                  <!-- <img src="images/geocomssa.gif" style="width: 300px;height: 80px" class="img-responsive"> -->                 
                  <br>                   
                  <p>Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de la empresas.</p>                    
@@ -101,9 +101,9 @@
         <div class="row">                   
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
 
-				<i class="far fa-check-circle"></i>                 
+				<i class="far fa-check-circle" style="color:#ff8000"> REDES</i>                 
 
-                <h4 style="color:#333">RED CELULAR</h4>                    
+                <h4 style="color:#333">Celular</h4>                    
                 <p>Cobertura de red celular M2M</p> 
                 <p>Socios celulares y servicios para M2M                   
                                    
@@ -111,7 +111,7 @@
 
                     </a></p>
                     <br>
-                    <h4 style="color:#333">RED SATÉLITE</h4>                    
+                    <h4 style="color:#333">Satélite</h4>                    
                 <p>Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide
                    la distancia
                                      
@@ -119,7 +119,7 @@
 
                     </a></p> 
                     <br>
-                    <h4 style="color:#333">DUAL-MODE</h4>                    
+                    <h4 style="color:#333">Dual-Mode</h4>                    
                 <p>Usamos Cobertura de red M2M de modo dual
                    Comunicación y Seguimiento Satélite-Celular para unir la mejor comunicación en todo
                    el mundo
@@ -129,19 +129,21 @@
                     </a></p>                     
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <i class="far fa-check-circle"></i>                 
-                <h4 style="color:#333">HARDWARE</h4>                 
+            <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
+                <h4 style="color:#333"></h4>                 
                 <p>TEXTO</p>                    
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <i class="far fa-check-circle"></i>                 
-                <h4 style="color:#333">SOLUCIONES</h4>                   
+            <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 
+                <h4 style="color:#333"></h4>                   
                 <p>TEXTO</p>                    
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <i class="far fa-check-circle"></i>                 
-                <h4 style="color:#333">INDUSTRIA</h4>                    
-                <p>TEXTO</p>                    
+            <i class="far fa-check-circle" style="color:#ff8000"> INDUSTRIA</i>                 
+                <h4 style="color:#333">Equipo Pesado</h4>                    
+                <p>GEOCOMMSA permite realizar el seguimiento, gestione y controle las flotas de equipos pesados de construcción, minería, agricultura, marítimo y servicios a la medida de las necesidades de nuestros clientes en lo referente al IiOT y Telemetria.
+                <a  href="EquipoPesado.php">ver más...</a>
+                </p>                    
             </div>                  
         </div>                  
     </div>                  
