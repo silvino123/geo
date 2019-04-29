@@ -40,7 +40,7 @@
         </li>       
         <li class="breadcrumb-item active">Celular</li>     
         <li class="breadcrumb-item">        
-                <a href="Satelite.php">Satelite</a>     
+                <a href="Satelite.php">Satélite</a>     
             </li>       
             <li class="breadcrumb-item">        
                     <a href="Dualmode.php">Dual-Mode</a>        
@@ -62,8 +62,8 @@
                     <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
                         <h4 style="color:#ff8000">Cobertura de red celular M2M</h4>     
                         <br>        
-                        <p>GEOCOMMSA proporciona servicios de los mayores proveedores globales de red celular, ofreciendo planes de datos económicos en una variedad de redes (2G, 3G, 4G) para satisfacer sus necesidades únicas.</p>      
-                        <p>Con una oferta completa de opciones de cobertura de red celular M2M, GEOCOMMSA le brinda la solución perfecta al costo adecuado para satisfacer sus necesidades de seguimiento remoto con cobertura completa en todos los rincones y espacios abiertos del mundo.</p>        
+                        <p style=" text-align: justify">GEOCOMMSA proporciona servicios de los mayores proveedores globales de red celular, ofreciendo planes de datos económicos en una variedad de redes (2G, 3G, 4G) para satisfacer sus necesidades únicas.</p>      
+                        <p style=" text-align: justify">Con una oferta completa de opciones de cobertura de red celular M2M, GEOCOMMSA le brinda la solución perfecta al costo adecuado para satisfacer sus necesidades de seguimiento remoto con cobertura completa en todos los rincones y espacios abiertos del mundo.</p>        
                     </div>      
                 </div>      
                 <div class="row inner-sec-wthree">      
@@ -73,7 +73,7 @@
                 
                         </div>      
                         <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
-                            <p>Desde tarjetas SIM M2M y tiempo aire celular a soluciones M2M completas, las alianzas con proveedores celulares de GEOCOMMSA les permiten a nuestros clientes obtener un proceso de facturación simplificada, gestión de suscriptores y mucho más por medio de nuestra plataforma GEOCOMMSA.</p>     
+                            <p style=" text-align: justify">Desde tarjetas SIM M2M y tiempo aire celular a soluciones M2M completas, las alianzas con proveedores celulares de GEOCOMMSA les permiten a nuestros clientes obtener un proceso de facturación simplificada, gestión de suscriptores y mucho más por medio de nuestra plataforma GEOCOMMSA.</p>     
                                     
                         </div>      
                     </div>      

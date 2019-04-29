@@ -52,28 +52,37 @@
                  <!-- <img src="images/geocomssa.gif" style="width: 300px;height: 80px" class="img-responsive"> -->
                 </div>
                 <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">
-                    <p>Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de la empresas.</p>
+                    <p style=" text-align: justify">Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de la empresas.</p><br>
+                    <p style=" text-align: justify">Somos un proveedor de soluciones de comunicación de máquina a
+                       máquina (M2M) y del IoT diseñadas para: monitoreo, rastreo y controlar
+                       activos fijos y móviles de forma remota, en los diferentes sectores de las
+                       industria.</p><br>
+                       <p style=" text-align: justify">En GEOCOMMSA estamos siempre en la búsqueda de ofrecer
+                        respuesta inmediata a los obstáculos que afectan la productividad, la
+                        eficiencia y la eficacia de nuestros clientes, y a los distintos sectores de
+                        la industria. Desarrollando soluciones tecnológicas que nos permitan la
+                        automatización y Telemetria de otras variables de interés del cliente. </p>
                 </div>
             </div>
             <div class="row inner-sec-wthree">
-                <div class="col-lg-4 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
+                <div class="col-lg-5 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
                     <div class="bt-icon">
 
                         <span class="fas fa-trophy"></span>
                     </div>
 
                     <h4 class="sub-tittle"><b>MISIÓN</b></h4>
-                    <p>En GEOCOMMSA Buscamos ser una aliado de cada uno de nuestros clientes, desarrollando soluciones Tecnológicas personalizadas, a su medida y necesidades, usando como base principal la aplicaciones de la Telemetria (M2M) y el uso del IioT para la trasmisión de datos en tiempo real.</p>
+                    <p style=" text-align: justify">En GEOCOMMSA Buscamos ser una aliado de cada uno de nuestros clientes, desarrollando soluciones Tecnológicas personalizadas, a su medida y necesidades, usando como base principal la aplicaciones de la Telemetria (M2M) y el uso del IioT para la trasmisión de datos en tiempo real.</p>
                     
                 </div>
                 <!-- /.col-lg-4 -->
-                <div class="col-lg-4 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
+                <div class="col-lg-5 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
                     <div class="bt-icon">
                         <span class="far fa-thumbs-up"></span>
                     </div>
 
                     <h4 class="sub-tittle"><b>VISIÓN</b></h4>
-                    <p>En GEOCOMMSA siempre buscaremos ser un socio estratégico de nuestros clientes, proporcionando la tecnología y los recursos que conlleva la promesa del IioT, la Telemetria (M2M) de impulsar un mayor retorno de la inversión de nuestros clientes.</p>
+                    <p style=" text-align: justify">En GEOCOMMSA siempre buscaremos ser un socio estratégico de nuestros clientes, proporcionando la tecnología y los recursos que conlleva la promesa del IioT, la Telemetria (M2M) de impulsar un mayor retorno de la inversión de nuestros clientes.</p>
                     
                 </div>
                 <!-- /.col-lg-4 -->
@@ -99,7 +108,7 @@
                                             
                                            </span>
                                             <h5 style="color:#ff6a00">Seguridad</h5>
-                                            <p>En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
+                                            <p style=" text-align: justify">En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
                                         </div>
                                     </div>
                                     <div class="grid_info second" style="opacity:0.7">
@@ -109,7 +118,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Relaciones de trabajo</h5>
-                                            <p>Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo esta preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
+                                            <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo esta preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
                                                 <br>
                                                 <br>
                                                 <br>
@@ -126,7 +135,7 @@
                                                            
                                                           </span>
                                                     <h5 style="color:#ff6a00">Profesionales</h5>
-                                                    <p>En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
+                                                    <p style=" text-align: justify">En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
                                                 </div>
                                             </div>
                                             <div class="grid_info second">
@@ -136,7 +145,7 @@
                                                                
                                                               </span>
                                                         <h5 style="color:#ff6a00">Medio ambiente</h5>
-                                                        <p>Respetamos el medio ambiente. tomamos todas las medidas prácticas para minimizar el impacto de nuestras actividades sobre el medio ambiente, tarea fundamental para el futuro de todos.</p>
+                                                        <p style=" text-align: justify">Respetamos el medio ambiente. tomamos todas las medidas prácticas para minimizar el impacto de nuestras actividades sobre el medio ambiente, tarea fundamental para el futuro de todos.</p>
                                                     </div>
                                                 </div>
                                                 <div class="grid_info second">
@@ -146,7 +155,7 @@
                                                                
                                                               </span>
                                                         <h5 style="color:#ff6a00">Trabajo en equipo</h5>
-                                                        <p>Todos los colaboradores, deberán de está trabajando como un equipo más fuerte dia a dia.
+                                                        <p style=" text-align: justify">Todos los colaboradores, deberán de está trabajando como un equipo más fuerte dia a dia.
                                                             
                                                         </p>
                                                     </div>
@@ -161,7 +170,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Innovadores</h5>
-                                            <p>Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
+                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
                                         </div>
                                     </div>
                                     <div class="grid_info second">
@@ -171,7 +180,7 @@
                                                        
                                                       </span>
                                                 <h5 style="color:#ff6a00">Autocritica</h5>
-                                                <p>Recibimos con beneplácito los comentarios de nuestros clientes y colaboradores, seguimos evolucionando y adaptándonos para satisfacer las necesidades de nuestros clientes e industria.</p>
+                                                <p style=" text-align: justify">Recibimos con beneplácito los comentarios de nuestros clientes y colaboradores, seguimos evolucionando y adaptándonos para satisfacer las necesidades de nuestros clientes e industria.</p>
                                             </div>
                                         </div>
                                 </div>
