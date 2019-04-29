@@ -108,7 +108,11 @@
                                             
                                            </span>
                                             <h5 style="color:#ff6a00">Seguridad</h5>
-                                            <p style=" text-align: justify">En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
+                                            <p style=" text-align: justify">En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.
+                                            <br>
+                                                <br>
+                                                <br>
+                                        </p>
                                         </div>
                                     </div>
                                     <div class="grid_info second" style="opacity:0.7">
@@ -119,6 +123,8 @@
                                                   </span>
                                             <h5 style="color:#ff6a00">Relaciones de trabajo</h5>
                                             <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo esta preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
+                                                <br>
+                                                <br>
                                                 <br>
                                                 <br>
                                                 <br>
@@ -135,7 +141,10 @@
                                                            
                                                           </span>
                                                     <h5 style="color:#ff6a00">Profesionales</h5>
-                                                    <p style=" text-align: justify">En todas nuestras actividades, la seguridad de todos los miembros del equipo, es nuestra prioridad número uno. Cada miembro de nuestro equipo debe pensar en regresar a sus hogares sanos y a salvo.</p>
+                                                    <p style=" text-align: justify">En el desarrollo de software y hardware cumpliendo
+                                                     con los estándares del mercado, Continuamente tratamos de evaluar
+                                                     todo lo que hacemos, con el objetivo de lograr la excelencia operativa
+                                                     en beneficio de nuestros clientes y colaboradores.</p>
                                                 </div>
                                             </div>
                                             <div class="grid_info second">
@@ -170,7 +179,11 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Innovadores</h5>
-                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
+                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.
+                                        <br>
+                                        <br>
+                                        <br>
+                                        </p>
                                         </div>
                                     </div>
                                     <div class="grid_info second">
