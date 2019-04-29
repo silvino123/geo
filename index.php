@@ -143,9 +143,9 @@
                                
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 
+            <!-- <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 
                 <h4 style="color:#333"></h4>                   
-                <p>TEXTO</p>               
+                <p>TEXTO</p>                -->
             </div>                  
         </div>                  
     </div>                  
