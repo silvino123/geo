@@ -72,7 +72,7 @@
                     </div>
 
                     <h4 class="sub-tittle"><b>MISIÓN</b></h4>
-                    <p style=" text-align: justify">En GEOCOMMSA Buscamos ser una aliado de cada uno de nuestros clientes, desarrollando soluciones Tecnológicas personalizadas, a su medida y necesidades, usando como base principal la aplicaciones de la Telemetria (M2M) y el uso del IioT para la trasmisión de datos en tiempo real.</p>
+                    <p style=" text-align: justify">En GEOCOMMSA buscamos ser una aliado de cada uno de nuestros clientes, desarrollando soluciones tecnológicas personalizadas, a su medida y necesidades, usando como base principal la aplicaciones de la Telemetría (M2M) y el uso del IioT para la trasmisión de datos en tiempo real.</p>
                     
                 </div>
                 <!-- /.col-lg-4 -->
@@ -82,7 +82,7 @@
                     </div>
 
                     <h4 class="sub-tittle"><b>VISIÓN</b></h4>
-                    <p style=" text-align: justify">En GEOCOMMSA siempre buscaremos ser un socio estratégico de nuestros clientes, proporcionando la tecnología y los recursos que conlleva la promesa del IioT, la Telemetria (M2M) de impulsar un mayor retorno de la inversión de nuestros clientes.</p>
+                    <p style=" text-align: justify">En GEOCOMMSA siempre buscaremos ser un socio estratégico de nuestros clientes, proporcionando la tecnología y los recursos que conlleva la promesa del IioT, la Telemetría (M2M) de impulsar un mayor retorno de la inversión de nuestros clientes.</p>
                     
                 </div>
                 <!-- /.col-lg-4 -->
@@ -118,7 +118,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Relaciones de trabajo</h5>
-                                            <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo esta preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
+                                            <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo está preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
                                                 <br>
                                                 <br>
                                                 <br>
@@ -145,7 +145,7 @@
                                                                
                                                               </span>
                                                         <h5 style="color:#ff6a00">Medio ambiente</h5>
-                                                        <p style=" text-align: justify">Respetamos el medio ambiente. tomamos todas las medidas prácticas para minimizar el impacto de nuestras actividades sobre el medio ambiente, tarea fundamental para el futuro de todos.</p>
+                                                        <p style=" text-align: justify">Respetamos el medio ambiente. Tomamos todas las medidas prácticas para minimizar el impacto de nuestras actividades sobre el medio ambiente, tarea fundamental para el futuro de todos.</p>
                                                     </div>
                                                 </div>
                                                 <div class="grid_info second">
@@ -155,7 +155,7 @@
                                                                
                                                               </span>
                                                         <h5 style="color:#ff6a00">Trabajo en equipo</h5>
-                                                        <p style=" text-align: justify">Todos los colaboradores, deberán de está trabajando como un equipo más fuerte dia a dia.
+                                                        <p style=" text-align: justify">Todos los colaboradores, deberán de está trabajando como un equipo más fuerte día a día.
                                                             
                                                         </p>
                                                     </div>
@@ -170,7 +170,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Innovadores</h5>
-                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
+                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
                                         </div>
                                     </div>
                                     <div class="grid_info second">

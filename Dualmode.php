@@ -76,7 +76,7 @@
                 
                         </div>      
                         <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
-                            <p style=" text-align: justify">Los administradores y operadores de flotas están buscando cada vez y con más frecuencia dispositivos celulares-satélite para el rastreo de sus activos que entran y salen de zonas de cobertura celular.</p>     
+                            <p style=" text-align: justify">Los administradores y operadores de flotas están buscando cada vez y con más frecuencia dispositivos celulares-satélite para el rastreo de sus activos, que entran y salen de zonas de cobertura celular.</p>     
                                     
                         </div>      
                     </div>      
@@ -94,7 +94,7 @@
                     <div class="grid_info">                 
                                   
                             <span class="icon">                 
-								<i class="far fa-check-circle" >&nbsp;1.Gane cobertura global completa</i>                 
+								<i class="far fa-check-circle" >&nbsp;1. Gane cobertura global completa</i>                 
 							</span>                 
                                     
                     </div>                  
@@ -118,7 +118,7 @@
                     <div class="grid_info">                 
                                        
                             <span class="icon">                 
-								<i class="far fa-check-circle">&nbsp;2.Bajo costo con enrutamiento automático que le permite ahorros</i>                 
+								<i class="far fa-check-circle">&nbsp;2. Bajo costo con enrutamiento automático que le permite ahorros</i>                 
 							</span>                 
                                       
                     </div>                  
@@ -142,7 +142,7 @@
                     <div class="grid_info">                 
                                        
                             <span class="icon">                 
-								<i class="far fa-check-circle">&nbsp;3.Comunicaciones oportunas </i>                 
+								<i class="far fa-check-circle">&nbsp;3. Comunicaciones oportunas </i>                 
 							</span>                 
                                        
                     </div>                  
@@ -165,7 +165,7 @@
                 <div class="col-lg-7 grid_info_main2" data-aos="zoom-in">                  
                     <div class="grid_info">                 
                             <span class="icon">                 
-								<i class="far fa-check-circle">&nbsp;Protección total ante la congestión de la red y las condiciones climatologías</i>                 
+								<i class="far fa-check-circle">&nbsp;4. Protección total ante la congestión de la red y las condiciones climatológicas</i>                 
 						              
                     </div>                  
                                     
