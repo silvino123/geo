@@ -43,20 +43,24 @@
             <div class="carousel-inner" role="listbox">                 
                 <div class="carousel-item active">                  
                     <div class="carousel-caption">                  
-                        <h3>TEXTO</h3>                  
-
+                        <h3>Minería</h3>                  
+                         <p style="color:#fff">La industria minera en los últimos años a tenido un auge derivado de las condiciones del
+                          mercado de metales preciosos e industriales...</p>
+                         <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
                     </div>                  
                 </div>                  
                 <div class="carousel-item item2">                   
                     <div class="carousel-caption">                  
-                        <h3>TEXTO</h3>                  
-
+                        <h3>Equipo Pesado</h3>                  
+                        <p style="color:#fff">GEOCOMMSA permite realizar el seguimiento, gestión y control de las flotas de equipos pesados de construcción, minería...</p>
+                        <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
                     </div>                  
                 </div>                  
                 <div class="carousel-item item3">                   
                     <div class="carousel-caption">                  
-                        <h3>TEXTO</h3>                  
-
+                        <h3>Red por Satélite</h3>                  
+                        <p style="color:#fff">Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide la distancia...</p>
+                        <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
 
                     </div>                  
                 </div>                  
@@ -81,7 +85,7 @@
               <h4 style="color:#ff8000">GEOCOMMSA</h4>                  
                  <!-- <img src="images/geocomssa.gif" style="width: 300px;height: 80px" class="img-responsive"> -->                 
                  <br>                   
-                 <p>Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de las empresas.</p>                    
+                 <p style=" text-align: justify">Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de las empresas.</p>                    
                  <a  href="about.php">ver más...</a>
                 </div>                  
         <div class="col-lg-5 bt-bottom-info" data-aos="fade-left">                  
