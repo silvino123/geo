@@ -94,7 +94,7 @@
     </section> 
  <!--reviews_sec-->
  <section class="reviews_sec" id="valores">
-        <h3 class="tittle cen"> Nuestros Valore</h3>
+        <h3 class="tittle cen"> Nuestros Valores</h3>
         <div class="inner-sec-wthree">
                 <section >
                         <div class="container">
@@ -179,15 +179,12 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Innovadores</h5>
-<<<<<<< HEAD
                                             <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas para aumentar la rentabilidad y la productividad de las empresas que nos contratan.</p>
-=======
-                                            <p style=" text-align: justify">Somos solucionadores de problemas operativos de nuestros clientes con el constante desarrollo de herramientas Para aumentar la rentabilidad y la productividad de las empresas que nos contratan.
+                                           
                                         <br>
                                         <br>
-                                        <br>
+                                     
                                         </p>
->>>>>>> 3e9ae0dfb15bbea1de2a9a55a670dd847c035f13
                                         </div>
                                     </div>
                                     <div class="grid_info second">
