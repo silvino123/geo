@@ -61,7 +61,7 @@
                         respuesta inmediata a los obstáculos que afectan la productividad, la
                         eficiencia y la eficacia de nuestros clientes, y a los distintos sectores de
                         la industria. Desarrollando soluciones tecnológicas que nos permitan la
-                        automatización y Telemetria de otras variables de interés del cliente. </p>
+                        automatización y Telemetría de otras variables de interés del cliente. </p>
                 </div>
             </div>
             <div class="row inner-sec-wthree">

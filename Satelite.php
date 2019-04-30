@@ -56,7 +56,7 @@
                 <div class="style-grid-2-text_info" data-aos="fade-right">                                                                                                                                              
                     <h4 style="color:#ff8000">Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide                                                                                                                                                
                             la distancia..</h4>                                                                                                                                             
-                    <p style=" text-align: justify">GEOCOMMSA cuenta con el apoyo de la mayor empresa a nivel global en lo que se refriere                                                                                                                                               
+                    <p style=" text-align: justify">GEOCOMMSA cuenta con el apoyo de la mayor empresa a nivel global en lo que se refiere                                                                                                                                               
                             al suministro de servicios de comunicaciones vía satelitales, además de ser líder global de                                                                                                                                               
                             IoT que opera la única red de satélites comercial 100% dedicada a M2M, lo que nos permite                                                                                                                                               
                             brindar la oferta de servicios más segura, confiable y completa de la industria.</p>                                                                                                                                                
@@ -82,7 +82,7 @@
                                         celulares terrestres, las grandes áreas continentales y, sobre todo, marítimas con cobertura                                                                                                                                                
                                         limitada o sin ningún tipo de infraestructura de telecomunicaciones y los servicios                                                                                                                                             
                                         aeronáuticos sin aplicaciones globales son los principales argumentos impulsores de los                                                                                                                                             
-                                        llamado Servicios Móviles por Satélite (MSS).</p>
+                                        llamados Servicios Móviles por Satélite (MSS).</p>
                                         <p style=" text-align: justify">
                                         La comunicación satelital aumenta la cobertura en zonas donde la red celular no está
                                        disponible o no es fiable, al igual que puede reducir las costosas tarifas de itinerancia celular.</p>                                                                                                                                               
