@@ -108,15 +108,15 @@
 				<i class="far fa-check-circle" style="color:#ff8000"> REDES</i>                 
 
                 <h4 style="color:#333">Celular</h4>                    
-                <p>Cobertura de red celular M2M</p> 
-                <p>Socios celulares y servicios para M2M                   
+                <p style=" text-align: justify">Cobertura de red celular M2M</p> 
+                <p style=" text-align: justify">Socios celulares y servicios para M2M                   
                                    
                 <a  href="Celular.php">ver más...                 
 
                     </a></p>
                     <br>
                     <h4 style="color:#333">Satélite</h4>                    
-                <p>Disfrute de la conectividad por satélite para comunicaciones IoT y M2M fiables, olvide
+                <p style=" text-align: justify">Disfrute de la conectividad por satélite para comunicaciones IoT y M2M fiables, olvide
                    la distancia
                                      
                 <a  href="Satelite.php">ver más...                 
@@ -124,7 +124,7 @@
                     </a></p> 
                     <br>
                     <h4 style="color:#333">Dual-Mode</h4>                    
-                <p>Usamos Cobertura de red M2M de modo dual
+                <p style=" text-align: justify">Usamos Cobertura de red M2M de modo dual
                    comunicación y seguimiento Satélite-Celular para unir la mejor comunicación en todo
                    el mundo
                                      
@@ -135,10 +135,19 @@
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> INDUSTRIA</i>                 
                 <h4 style="color:#333">Equipo Pesado</h4>                    
-                <p>GEOCOMMSA permite realizar el seguimiento, gestione y controle las flotas de equipos pesados.
+                <p style=" text-align: justify">GEOCOMMSA permite realizar el seguimiento, gestione y controle las flotas de equipos pesados.
                 <a  href="EquipoPesado.php">ver más...</a>
+                </p>  
+                <h4 style="color:#333">Minería</h4>                    
+                <p style=" text-align: justify">La industria minera en los últimos años a tenido un auge derivado de las condiciones del
+                   mercado de metales preciosos e industriales...
+                <a  href=" ">ver más...</a>
+                </p>            
+                <h4 style="color:#333">Perforacíon</h4>                    
+                <p style=" text-align: justify">GEOCOMMSA Por medio de su desarrollo tecnológico permite a las empresas de
+                  perforación, la integración de los datos generados durante el proceso de barrenacion
+                <a  href=" ">ver más...</a>
                 </p>                
-                                
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
