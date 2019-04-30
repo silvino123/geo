@@ -122,7 +122,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">Relaciones de trabajo</h5>
-                                            <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El Trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo está preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
+                                            <p style=" text-align: justify">Construimos relaciones sólidas con nuestros clientes, basadas en la honestidad, integridad, respeto y comunicación abierta. El trabajo en asociación con nuestros clientes es crucial para el éxito. Siempre hay un camino para conseguir el trabajo bien hecho. Nuestro equipo está preparado para enfrentar los obstáculos mecánicos y tecnológicos a través de la investigación y desarrollo de soluciones innovadoras y eficientes para cumplir los objetivos de nuestros clientes.
                                                 <br>
                                                 <br>
                                                 <br>
@@ -142,7 +142,7 @@
                                                           </span>
                                                     <h5 style="color:#ff6a00">Profesionales</h5>
                                                     <p style=" text-align: justify">En el desarrollo de software y hardware cumpliendo
-                                                     con los estándares del mercado, Continuamente tratamos de evaluar
+                                                     con los estándares del mercado, continuamente tratamos de evaluar
                                                      todo lo que hacemos, con el objetivo de lograr la excelencia operativa
                                                      en beneficio de nuestros clientes y colaboradores.</p>
                                                 </div>
