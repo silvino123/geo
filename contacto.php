@@ -58,7 +58,7 @@
                                 <span class="fas fa-phone-volume" aria-hidden="true"></span>
                             </div>
                             <div class="address-right">
-                                <h6>Telefono</h6>
+                                <h6 style="color:#000000">Telefono</h6>
                                 <p>00-00-00-00</p>
 
                             </div>
@@ -71,7 +71,7 @@
                                 <span class="far fa-envelope" aria-hidden="true"></span>
                             </div>
                             <div class="address-right">
-                                <h6>Direccion de correo</h6>
+                                <h6 style="color:#000000">Direccion de correo</h6>
                                 <p>Email :
                                     <a href=""> mail@example.com</a>
                                 </p>
@@ -85,7 +85,7 @@
                                 <span class="fas fa-map-marker-alt" aria-hidden="true"></span>
                             </div>
                             <div class="address-right">
-                                <h6>Ubicacion</h6>
+                                <h6 style="color:#000000">Ubicacion</h6>
                                 <p>Direccion
 
                                 </p>
