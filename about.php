@@ -31,7 +31,7 @@
     <?php include 'header.html'; ?>     
     </header>       
     <!--//header-->     
-    <div class="banner-inner-celular">      
+    <div class="banner-inner-empresa">      
     </div>      
     <ol class="breadcrumb">     
         <li class="breadcrumb-item">        
