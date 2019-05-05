@@ -69,7 +69,7 @@
     </section> 
  <!--reviews_sec-->
  <section class="reviews_sec" id="valores">
-        <h3 class="tittle cen"> Nuestros Valores</h3>
+        <h3 class="tittle cen"> 5 Principios</h3>
         <div class="inner-sec-wthree">
                 <section >
                         <div class="container">
