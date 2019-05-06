@@ -191,7 +191,8 @@
                             <span class="icon">                 
 								<i class="far" >&nbsp;Monitoreo y control de los equipos de minería de instalación fija</i>                 
 							</span>                                                     
-                    </div>                                                      
+                    </div>   
+                    <br>                                                     
                 </div>                                                   
                 <div class="col-lg-12 grid_info_main" data-aos="fade-right">                 
                     <div class="grid_info">                 
@@ -201,7 +202,8 @@
                         <p style=" text-align: justify;color:#fff"><br>Establezca un enlace de comunicación de bajo costo, fácil y rápido de instalar, sin necesidad de realizar grandes inversiones de capital.</p>
                         </div>                  
                     </div>                  
-                </div>                  
+                </div>   
+                            
             </div>
             <div class="row inner-sec-wthree">                  
                 <div class="col-lg-12 grid_info_main2" data-aos="fade-left">                  
@@ -209,7 +211,8 @@
                             <span class="icon">                 
 								<i class="far" >&nbsp;Monitoree el clima y las condiciones ambientales en proyectos mineros remotos</i>
 							</span>                                                     
-                    </div>                                                      
+                    </div> 
+                    <br>                                                     
                 </div>                                                   
                 <div class="col-lg-12 grid_info_main" data-aos="fade-right">                 
                     <div class="grid_info">                 
