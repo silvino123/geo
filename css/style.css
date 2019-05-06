@@ -571,6 +571,19 @@ h4.sub-tittle {
 .style-image-Pesados {
     background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Pesado.jpeg) no-repeat;
     background-size: cover;
+    min-height: 400px;
+    min-width: 600px;
+}
+
+.style-image-Mineria1 {
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/mineria1.jpg) no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.style-image-Mineria2 {
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/mineria2.jpg) no-repeat;
+    background-size: cover;
     min-height: 600px;
 }
 
