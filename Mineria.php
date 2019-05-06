@@ -192,7 +192,8 @@
 								<i class="far" >&nbsp;Monitoreo y control de los equipos de minería de instalación fija</i>                 
 							  <br>  
                               </span>                                                     
-                    </div>                                                      
+                    </div>             
+                    <br>                                         
                 </div>
                                                                
                 <div class="col-lg-12 grid_info_main" data-aos="fade-right">                 
