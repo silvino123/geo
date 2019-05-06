@@ -31,7 +31,11 @@
     <?php include 'header.html'; ?>     
     </header>       
     <!--//header-->     
-    <div class="banner-inner-Perforaciones">      
+    <div class="banner-inner-Perforaciones">     
+    <div class="carousel-caption">                  
+                        <!-- <h3>PERFORACIONES</h3>                   -->
+                         
+                    </div> 
     </div>      
     <ol class="breadcrumb">     
         <li class="breadcrumb-item">        

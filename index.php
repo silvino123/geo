@@ -46,21 +46,21 @@
                         <h3>Minería</h3>                  
                          <p style="color:#fff">La industria minera en los últimos años a tenido un auge derivado de las condiciones del
                           mercado de metales preciosos e industriales...</p>
-                         <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
+                         <a class="btn btn-outline-success my-2 my-sm-0" href="Mineria.php" style="color: #fff"> ver más</a>
                     </div>                  
                 </div>                  
                 <div class="carousel-item item2">                   
                     <div class="carousel-caption">                  
                         <h3>Equipo Pesado</h3>                  
                         <p style="color:#fff">GEOCOMMSA permite realizar el seguimiento, gestión y control de las flotas de equipos pesados de construcción, minería...</p>
-                        <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
+                        <a class="btn btn-outline-success my-2 my-sm-0" href="EquipoPesado.php" style="color: #fff"> ver más</a>
                     </div>                  
                 </div>                  
                 <div class="carousel-item item3">                   
                     <div class="carousel-caption">                  
                         <h3>Red por Satélite</h3>                  
                         <p style="color:#fff">Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide la distancia...</p>
-                        <a class="btn btn-outline-success my-2 my-sm-0"> ver más</a>
+                        <a class="btn btn-outline-success my-2 my-sm-0" href="satelite.php" style="color: #fff" > ver más</a>
 
                     </div>                  
                 </div>                  
