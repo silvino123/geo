@@ -195,69 +195,8 @@
             </div>
           </div>
         </div> 
-    <!--/Projets-->     
-    <!-- <section class="services">      
-        <div class="container">     
-            <h3 class="tittle">Proveedores</h3>     
-            <div class="row inner-sec-wthree">      
-            
-                <div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
-                    <div class="section_1_gallery_grid">        
-                        <a title="Telcel es una empresa mexicana de telecomunicaciones perteneciente al grupo de América Móvil. Es el tercer proveedor de telecomunicaciones mas grande a nivel mundial y primero en América Latina.​" href="images/telcel.png">        
-                            <div class="section_1_gallery_grid1">       
-                                <img src="images/telcel.png" alt=" " class="img-responsive" />      
-                                <div class="proj_gallery_grid1_pos">        
-                                    <h3>TELCEL</h3>     
-                                    <p>Telcel es una empresa mexicana de telecomunicaciones perteneciente al grupo de América Móvil. Es el tercer proveedor de telecomunicaciones mas grande a nivel mundial y primero en América Latina.​</p>      
-                                </div>      
-                            </div>      
-                        </a>        
-                    </div>      
-                    <div class="section_1_gallery_grid" data-aos="zoom-in">     
-                              
-                    </div>      
-                    <div class="section_1_gallery_grid" data-aos="zoom-in">     
-                             
-                    </div>      
-                </div>      
-                <div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
-                    <div class="section_1_gallery_grid">        
-                    <a  href="images/movistar.png" title="Movistar ​​ es un empresa de telecomunicaciones filial de Telefónica.">     
-                            <div class="section_1_gallery_grid1">       
-                                <img src="images/movistar.png" alt=" " class="img-responsive" />        
-                                <div class="proj_gallery_grid1_pos">        
-                                    <h3>MOVISTAR</h3>       
-                                    <p>Movistar ​​ es un empresa de telecomunicaciones filial de Telefónica.</p>        
-                                </div>      
-                            </div>      
-                        </a>         
-                    </div>      
-                    <div class="section_1_gallery_grid" data-aos="zoom-in">     
-                              
-                    </div>      
-                    <div class="section_1_gallery_grid" data-aos="zoom-in">     
-                             
-                    </div>      
-                </div>      
-                <div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
-                    <div class="section_1_gallery_grid">        
-                    <a  href="images/at.jpg" title="AT&T Mobility es el segundo mayor proveedor en Estados Unidos y Puerto Rico, con más de 100 millones de suscriptores.">       
-                            <div class="section_1_gallery_grid1">       
-                                <img src="images/at.jpg" alt=" " class="img-responsive" />      
-                                <div class="proj_gallery_grid1_pos">        
-                                    <h3>AT&T</h3>       
-                                    <p>AT&T Mobility es el segundo mayor proveedor en Estados Unidos y Puerto Rico, con más de 100 millones de suscriptores.</p>        
-                                </div>      
-                            </div>      
-                        </a>      
-                    </div>      
-    
-            
-                </div>      
-            </div>      
-        </div>      
-    </section> -->      
-    <!--//proveedores-->        
+        
+         
     <!--footer-->       
     <?php include 'footer.html'; ?>     
             
@@ -292,7 +231,11 @@
         
      <!-- /js -->       
        <script src="js/bootstrap.js"></script>      
-    <!-- //js -->       
+    <!-- //js -->  
+
+    <script language="Javascript">
+document.oncontextmenu = function(){return false}
+</script>     
 </body>     
             
 </html>     
