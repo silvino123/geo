@@ -54,7 +54,7 @@
                 <div class="row inner-sec-wthree">      
             
                     <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
-                        <div style="width: 300px; height: 300px;">
+                        <div style="width: 200px; height: 200px;">
                             <img src="images/GEOSENSE.jpeg" alt="" class="img-fluid">        
                         </div>
                     </div>      
@@ -69,7 +69,7 @@
                 <div class="row inner-sec-wthree">      
             
                     <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
-                        <div style="width: 300px; height: 300px;">
+                        <div style="width: 200px; height: 200px;">
                             <img src="images/GEOSENSEM2M.jpeg" alt="" class="img-fluid">                
                         </div>      
                     </div>      
@@ -87,7 +87,7 @@
             </div>      
             <!-- /.row -->      
         </section>     
-        <div class="modal fade" id="modalgeosens" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade container" id="modalgeosens" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
               <div class="modal-header">
@@ -101,7 +101,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSE.jpeg" alt="GEOSENS" class="img-fluid">                
+                            <img src="images/GEOSENSE.jpeg" alt="GEOSENS" class="img-fluid" style="filter: blur(2px);">                
                         </div> </center> 
                     </div>
                     <div class="col-lg-6">
@@ -153,7 +153,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSEM2M.jpeg" alt="GEOSENSM2M" class="img-fluid">                
+                            <img src="images/GEOSENSEM2M.jpeg" alt="GEOSENSM2M" class="img-fluid" style="filter: blur(2px);">                
                         </div>  </center>
                     </div>
                     <div class="col-lg-6">
@@ -235,6 +235,8 @@
 
     <script language="Javascript">
 document.oncontextmenu = function(){return false}
+document.ondragstart=function(){return false}
+
 </script>     
 </body>     
             
