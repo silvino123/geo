@@ -582,7 +582,7 @@ h4.sub-tittle {
 }
 
 .style-image-Mineria2 {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/mineria2.jpg) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/mineria2.jpeg) no-repeat;
     background-size: cover;
     min-height: 600px;
 }
@@ -886,6 +886,12 @@ h4.sub-tittle {
     background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/contacto.jpg) no-repeat;
     background-size: cover;
     min-height: 600px;
+}
+.banner-inner-Perforaciones {
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Perforaciones.jpeg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Perforaciones.jpeg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Perforaciones.jpeg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Perforaciones.jpeg) no-repeat;
 }
 .banner-inner-dispositivos {
     background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/dispositivos.jpeg) no-repeat;

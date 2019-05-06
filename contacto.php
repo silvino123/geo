@@ -96,7 +96,7 @@
                 </div>
 
                 <div class="contact_grid_right">
-                    <h6>ponte en contacto...</h6>
+                    <h6>Ponte en contacto...</h6>
                     <form action="#" method="post">
                         <div class="contact_left_grid">
                             <input type="text" name="Name" placeholder="Nombre" required="">
