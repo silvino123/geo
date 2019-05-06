@@ -55,8 +55,8 @@
                     <p style=" text-align: justify">Somos una empresa orgullosamente Sonorense que provee soluciones tecnológicas de comunicación y trasmisión de datos vía satelital, celular, dual y radio frecuencia. Todo ello, a la medida y necesidad de cada cliente, como pudiera ser el control y seguimiento de variables, registro de datos y comportamientos en tiempo real, automatización-integración, desarrollo y optimización de procesos, sensores, equipos y maquinaria. Ayudando en la reducción de costos, que es un factor determinante en el éxito y rentabilidad de las empresas.</p><br>
                     <p style=" text-align: justify">Somos un proveedor de soluciones de comunicación de máquina a
                        máquina (M2M) y del IoT diseñadas para: monitoreo, rastreo y controlar
-                       activos fijos y móviles de forma remota, en los diferentes sectores de las
-                       industrias.</p><br>
+                       activos fijos y móviles de forma remota, en los diferentes sectores de la
+                       industria.</p><br>
                        <p style=" text-align: justify">En GEOCOMMSA estamos siempre en la búsqueda de ofrecer
                         respuesta inmediata a los obstáculos que afectan la productividad, la
                         eficiencia y la eficacia de nuestros clientes, y a los distintos sectores de
