@@ -89,7 +89,7 @@
                  <a  href="about.php">ver más...</a>
                 </div>                  
         <div class="col-lg-5 bt-bottom-info" data-aos="fade-left">                  
-        <img src="images/edificio.jpg" alt="" class="img-fluid">                    
+        <img src="images/index.jpeg" alt="" class="img-fluid">                    
 
        </div>                   
          </div>                 
@@ -151,7 +151,7 @@
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
-                <h4 style="color:#333"></h4>                 
+                <h4 style="color:#333">Dispositivos</h4>                 
                 <p>TEXTO</p>                
                                
             </div>                  

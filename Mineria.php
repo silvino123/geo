@@ -36,7 +36,7 @@
             <a href="index.php">Inicio</a>                                                                                                                                                                                                                                  
         </li>                                                                                                                                                                                                                                   
         <li class="breadcrumb-item">
-            <a href="EquipoPesado.php">Equipo Pesado</a>Equipo Pesado
+            <a href="EquipoPesado.php">Equipo Pesado</a>
         </li>                                                                                                                                                                                                                               
         <li class="breadcrumb-item active">                                                                                                                                                                                                                                    
             Minería                                                                                                                                                                                                                              
@@ -190,9 +190,11 @@
                     <div class="grid_info">                                                   
                             <span class="icon">                 
 								<i class="far" >&nbsp;Monitoreo y control de los equipos de minería de instalación fija</i>                 
-							</span>                                                     
+							  <br>  
+                              </span>                                                     
                     </div>                                                      
-                </div>                                                   
+                </div>
+                                                               
                 <div class="col-lg-12 grid_info_main" data-aos="fade-right">                 
                     <div class="grid_info">                 
                         <div class="icon_info2">                            
