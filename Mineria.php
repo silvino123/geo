@@ -28,7 +28,7 @@
     <?php include 'header.html'; ?>                                                                                                                                                                                                                                 
     </header>                                                                                                                                                                                                                                   
     <!--//header-->                                                                                                                                                                                                                                 
-    <div class="banner-inner-pesados">                                                                                                                                                                                                                              
+    <div class="banner-inner-mineria">                                                                                                                                                                                                                              
 
     </div>                                                                                                                                                                                                                                  
     <ol class="breadcrumb">                                                                                                                                                                                                                                 
