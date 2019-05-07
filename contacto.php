@@ -59,7 +59,7 @@
                             </div>
                             <div class="address-right">
                                 <h6 style="color:#000000">Telefono</h6>
-                                <p>00-00-00-00</p>
+                                <p>66-21-20-13-17</p>
 
                             </div>
 
@@ -69,11 +69,12 @@
                         <div class="address-info">
                             <div class="address-left">
                                 <span class="far fa-envelope" aria-hidden="true"></span>
+                                
                             </div>
                             <div class="address-right">
                                 <h6 style="color:#000000">Direccion de correo</h6>
-                                <p>Email :
-                                    <a href=""> mail@example.com</a>
+                                <p>Correo :
+                                    geocommsa@gmail.com
                                 </p>
                             </div>
 
@@ -86,9 +87,7 @@
                             </div>
                             <div class="address-right">
                                 <h6 style="color:#000000">Ubicacion</h6>
-                                <p>Direccion
-
-                                </p>
+                                <p >Retorno Colina san miguel #12 Fracc.Colinas San javier Hermosillo, Sonora</p>
                             </div>
                         </div>
                     </div>
