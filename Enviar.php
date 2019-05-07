@@ -7,9 +7,6 @@ $Email = $_POST['Email'];
 $M = htmlspecialchars($_POST['Message']);
 
 
-
- 
-
 $to = "sycsoftcontacto@gmail.com";
 $subject = "Geocommsa Contacto";
 
@@ -46,11 +43,6 @@ try {
     //Recipients
     $mail->setFrom($to, 'Geocommsa Team');
     $mail->addAddress('jose.jrmg27@gmail.com', 'Jose'); 
-    // $mail->addAddress('lindaruedaflores@gmail.com', 'Sycsoft Team'); 
-    // $mail->addAddress('alexmillanes30@gmail.com', 'Sycsoft Team');
-        // Add a recipient
- 
-
     
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
@@ -71,10 +63,5 @@ try {
 } catch (Exception $e) {
     echo 'Hubo Un Error Al Enviar Su Cotizacion: ', $mail->ErrorInfo;
 }
-
-
-
-
-
 
 ?>
