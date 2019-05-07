@@ -97,12 +97,12 @@
 
                 <div class="contact_grid_right">
                     <h6>Ponte en contacto...</h6>
-                    <form action="#" method="post">
+                    <form action="Enviar.php" method="post">
                         <div class="contact_left_grid">
                             <input type="text" name="Name" placeholder="Nombre" required="">
                             <input type="email" name="Email" placeholder="Correo" required="">
                            
-                            <textarea name="Message"   required="">Mensaje...</textarea>
+                            <textarea name="Message"   required="" placeholder="Mensaje..."></textarea>
                             <input type="submit" value="Enviar">
                             
                             <div class="clearfix"> </div>
