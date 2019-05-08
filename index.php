@@ -38,7 +38,7 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>                 
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>                    
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>                    
-
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             </ol>                   
             <div class="carousel-inner" role="listbox">                 
                 <div class="carousel-item active">                  
@@ -63,7 +63,15 @@
                         <a class="btn btn-outline-success my-2 my-sm-0" href="satelite.php" style="color: #fff" > ver más</a>
 
                     </div>                  
-                </div>                  
+                </div>
+                <div class="carousel-item item4">                   
+                    <div class="carousel-caption">                  
+                        <h3>Dispositivos</h3>                  
+                        <p style="color:#fff">GEOCOMMSA desarrolló GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado</p>
+                        <a class="btn btn-outline-success my-2 my-sm-0" href="Dispositivos.php" style="color: #fff" > ver más</a>
+
+                    </div>                  
+                </div>                      
 
             </div>                  
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">                 
@@ -141,19 +149,23 @@
                 <h4 style="color:#333">Minería</h4>                    
                 <p style=" text-align: justify">La industria minera en los últimos años a tenido un auge derivado de las condiciones del
                    mercado de metales preciosos e industriales...
-                <a  href=" ">ver más...</a>
+                <a  href="Mineria.php">ver más...</a>
                 </p>            
                 <h4 style="color:#333">Perforacíon</h4>                    
                 <p style=" text-align: justify">GEOCOMMSA Por medio de su desarrollo tecnológico permite a las empresas de
                   perforación, la integración de los datos generados durante el proceso de barrenacion
-                <a  href=" ">ver más...</a>
-                </p>                
+                <a  href="Perforaciones.php">ver más...</a>
+                </p> 
+                <h4 style="color:#333">Exploracíon</h4>                    
+                <p style=" text-align: justify">GEOCOMMSA A través de su desarrollo tecnológico permite a las empresas de perforación, la integración de los datos generados durante el proceso de barrenación en las actividades de exploración minera y producción
+                <a  href="Exploracion.php">ver más...</a>
+                </p>               
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
                 <h4 style="color:#333">Dispositivos</h4>                 
-                <p>TEXTO</p>                
-                               
+                <p style=" text-align: justify">GEOCOMMSA desarrolló GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado</p>                
+                <a  href="Dispositivos.php">ver más...</a>           
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
             <!-- <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 

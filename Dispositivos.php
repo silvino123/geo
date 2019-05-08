@@ -73,7 +73,7 @@
                             <img src="images/GEOSENSEM2M.jpeg" alt="" class="img-fluid">                
                         </div>      
                     </div>      
-                            
+                    <br>     
                     <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
                         <h4 style="color:#ff8000">GEOSENS M2M</h4>     
                         <br>        
@@ -101,7 +101,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSE.jpeg" alt="GEOSENS" class="img-fluid" style="filter: blur(2px);">                
+                            <img src="images/GEOSENSE.jpeg" alt="GEOSENS" class="img-fluid" >                
                         </div> </center> 
                     </div>
                     <div class="col-lg-6">
@@ -153,7 +153,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSEM2M.jpeg" alt="GEOSENSM2M" class="img-fluid" style="filter: blur(2px);">                
+                            <img src="images/GEOSENSEM2M.jpeg" alt="GEOSENSM2M" class="img-fluid" >                
                         </div>  </center>
                     </div>
                     <div class="col-lg-6">

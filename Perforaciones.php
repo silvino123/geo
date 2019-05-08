@@ -49,7 +49,9 @@
         </li>  
         
         <li class="breadcrumb-item active">Perforaciones</li>     
-                  
+        <li class="breadcrumb-item">        
+            <a href="Exploracion.php">Exploración</a>      
+        </li>         
     </ol>       
     <!--//banner-->     
     <section class="banner-bottom">
