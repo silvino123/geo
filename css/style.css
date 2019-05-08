@@ -1503,6 +1503,12 @@ a.facebook2:hover {
     .banner-inner-dispositivos {
         min-height: 275px;
     }
+    .banner-inner-mineria {
+        min-height: 275px;
+    }
+    .banner-inner-exploracion {
+        min-height: 275px;
+    }
     footer {
         padding: 3em 0;
     }
