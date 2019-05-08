@@ -74,7 +74,9 @@
                             <div class="address-right">
                                 <h6 style="color:#000000">Direccion de correo</h6>
                                 <p>Correo :
-                                    geocommsa@gmail.com
+                                ventas@geocommsa.com
+                                contacto@geocommsa.com
+                                soportetecnico@geocommsa.com
                                 </p>
                             </div>
 
