@@ -139,7 +139,22 @@
 					</div>      
 	
             
-				</div>      
+                </div> 
+                <div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">     
+					<div class="section_1_gallery_grid">        
+					<a  href="images/iridium.jpg" title="es una empresa estadounidense que cotiza en bolsa con sede en McLean, Virginia . Iridium opera la constelación de satélites Iridium , un sistema de 141 satélites activos utilizados para la comunicación mundial de voz y datos desde teléfonos satelitales portátiles y otras unidades transceptoras. ">       
+							<div class="section_1_gallery_grid1">       
+								<img src="images/iridium.jpg" alt=" " class="img-responsive" />      
+								<div class="proj_gallery_grid1_pos">        
+									<h3>IRIDIUM</h3>       
+									<p>es una empresa estadounidense que cotiza en bolsa con sede en McLean, Virginia . Iridium opera la constelación de satélites Iridium , un sistema de 141 satélites activos utilizados para la comunicación mundial de voz y datos desde teléfonos satelitales portátiles y otras unidades transceptoras. </p>        
+								</div>      
+							</div>      
+						</a>      
+					</div>      
+	
+            
+				</div>        
 			</div>      
 		</div>      
 	</section>      
