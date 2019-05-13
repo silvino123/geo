@@ -60,7 +60,7 @@
                     <div class="carousel-caption">                  
                         <h3>Red por Satélite</h3>                  
                         <p style="color:#fff">Disfrute de la Conectividad por satélite para comunicaciones IoT y M2M fiables, olvide la distancia...</p>
-                        <a class="btn btn-outline-success my-2 my-sm-0" href="satelite.php" style="color: #fff" > ver más</a>
+                        <a class="btn btn-outline-success my-2 my-sm-0" href="Satelite.php" style="color: #fff" > ver más</a>
 
                     </div>                  
                 </div>
