@@ -575,7 +575,7 @@ h4.sub-tittle {
     min-width: 600px;
 }
 .style-image-exploracion {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/exploracion.jpeg) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/exploracion.jpg) no-repeat;
     background-size: cover;
     min-height: 400px;
     min-width: 600px;
