@@ -63,9 +63,7 @@ label {
     margin: 0;
 }
 
-/*--/header --*/
 
-/*--/navbar--*/
 
 .navbar {
     padding: 0em 0em;
@@ -197,7 +195,7 @@ input.form-control.mr-sm-2.ser-ch {
     background: #ff6a00;
 }
 
-/*--//header --*/
+
 
 .tooltip-blog {
     position: relative;
@@ -230,14 +228,7 @@ input.form-control.mr-sm-2.ser-ch {
     width: 0;
 }
 
-/*--/banner --*/
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Carousel base class */
-
-/* Since positioning the image, we need to help out the caption */
 
 .carousel-caption {
     bottom: 11em;
@@ -247,7 +238,7 @@ input.form-control.mr-sm-2.ser-ch {
     margin: 0 auto;
 }
 
-/* Declare heights because of positioning of img element */
+
 
 .carousel-item {
     height: 48em;
@@ -262,10 +253,7 @@ input.form-control.mr-sm-2.ser-ch {
     height: 32rem;
 }
 
-/* MARKETING CONTENT
--------------------------------------------------- */
 
-/* Center align the text within the three columns below the carousel */
 
 .marketing .col-lg-4 {
     margin-bottom: 1.5rem;
@@ -291,10 +279,10 @@ input.form-control.mr-sm-2.ser-ch {
 
 .featurette-divider {
     margin: 5rem 0;
-    /* Space out the Bootstrap <hr> more */
+   
 }
 
-/* Thin out the marketing headings */
+
 
 .featurette-heading {
     font-weight: 300;
@@ -374,7 +362,7 @@ input.form-control.mr-sm-2.ser-ch {
     background: #fff;
 }
 
-/* Show it is fixed to the top */
+
 
 button.btn.btn-primary.play {
     width: 90px;
@@ -395,9 +383,7 @@ button.btn.btn-primary.play:hover {
     background-color: #00C389;
 }
 
-/*--//banner --*/
 
-/*--/content --*/
 
 h3.tittle {
     text-align: center;
@@ -495,15 +481,13 @@ h4.sub-tittle {
     margin: 1em 0;
 }
 
-/*--//banner-bottom --*/
+
 
 .left-img img {
     width: 100%;
 }
 
-/*--//content --*/
 
-/*-- /services --*/
 
 .services {
     padding: 7em 0;
@@ -557,7 +541,7 @@ h4.sub-tittle {
     width: 100%;
 }
 
-/*-- //services --*/
+
 
 .style-grids_main {
     margin: 0;
@@ -575,7 +559,7 @@ h4.sub-tittle {
     min-width: 600px;
 }
 .style-image-exploracion {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/exploracion.jpeg) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/exploracion1.jpg) no-repeat;
     background-size: cover;
     min-height: 400px;
     min-width: 600px;
@@ -618,7 +602,7 @@ h4.sub-tittle {
     font-weight: 400;
 }
 
-/*-- stats --*/
+
 
 .stats_left p {
     font-size: 0.9em;
@@ -689,11 +673,8 @@ h4.sub-tittle {
     min-height: 600px;
 }
 
-/*--//about --*/
 
-/*--/Reviews--*/
 
-/*-- testimonials --*/
 
 .reviews_sec {
     background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/fondoproducto3.png) no-repeat;
@@ -795,7 +776,7 @@ h4.sub-tittle {
     width: 65%;
 }
 
-/*-- //testimonials --*/
+
 
 /*--responsive--*/
 
@@ -831,9 +812,7 @@ h4.sub-tittle {
     }
 }
 
-/*--//content --*/
 
-/*--about--*/
 
 .banner-inner {
     background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/slide1.jpeg) no-repeat;
@@ -877,10 +856,10 @@ h4.sub-tittle {
     min-height: 600px;
 }
 .banner-inner-exploracion {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion2.jpeg) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion2.jpeg) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion2.jpeg) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion2.jpeg) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion4.jpg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion4.jpg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion4.jpg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/Exploracion4.jpg) no-repeat;
     background-size: cover;
     min-height: 600px;
 }
@@ -947,9 +926,6 @@ p.ab-para {
     margin: 2em 0 3em 0;
 }
 
-/*--//about--*/
-
-/*-- gallery --*/
 
 .section_1_gallery_grid {
     margin-top: 1em;
@@ -1026,7 +1002,6 @@ p.quia {
     width: 100%;
 }
 
-/*-- //gallery --*/
 
 /*-- /error --*/
 
@@ -1151,9 +1126,6 @@ button.btn1:hover {
     }
 }
 
-/*-- //error --*/
-
-/*--footer--*/
 
 footer {
     padding: 5em 0;
@@ -1253,9 +1225,6 @@ button.btn1 {
     width: 20%;
 }
 
-/*--//footer--*/
-
-/*--/copyright--*/
 
 .copyright ul li {
     display: inline-block;
@@ -1328,9 +1297,6 @@ a.facebook2:hover {
     background: url(../images/top_up.png) no-repeat 0px 0px;
 }
 
-/*--// copyright-- */
-
-/*--responsive--*/
 
 @media(max-width:1440px) {
     .services,
@@ -1723,10 +1689,19 @@ a.facebook2:hover {
     }
 }
 
-@media(max-width:320px) {}
-/* @media(max-width:992px) {
+@media(max-width:320px) {
     .bt-bottom-info .img-fluid {
-        filter: blur(2px)
+        filter: blur(2px);
+        transform: scale(0.95);
     }
+}
+/* @media screen and(min-width:600px) {
+    .bt-bottom-info .img-fluid {
+        filter: blur(2px);
+        transform: scale(0.95);
+    }
+    
 } */
+}
+}
 /*--//responsive--*/

@@ -7,7 +7,7 @@ $Email = $_POST['Email'];
 $M = htmlspecialchars($_POST['Message']);
 
 
-$to = "sycsoftcontacto@gmail.com";
+$to = "geocommsa@gmail.com";
 $subject = "Geocommsa Contacto";
 
 
@@ -35,15 +35,18 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'sycsoftcontacto@gmail.com';                 // SMTP username
-    $mail->Password = 'Pincho46.';                           // SMTP password
+    $mail->Username = 'geocommsa@gmail.com';                 // SMTP username
+    $mail->Password = 'Gcmagtj345';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom($to, 'Geocommsa Team');
-    $mail->addAddress('jose.jrmg27@gmail.com', 'Jose'); 
+    $mail->setFrom($to, 'Geocommsa');
     
+    // $mail->addAddress('jesusfigueroa64@gmail.com', 'Jesus Figueroa');
+    // $mail->addAddress('contacto@geocommsa.com', 'Geocommsa');
+    $mail->addAddress('jose.jrmg27@gmail.com', 'Jose'); 
+    $mail->addAddress('alexmillanes30@gmail.com', 'Silvino');
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $subject;
@@ -52,7 +55,7 @@ try {
     $mail->send();
     echo "
                 <script language='JavaScript'>
-                var mensaje = 'Cotización Enviada, Espere Respuesta del Equipo de Sycsoft A Su Correo';
+                var mensaje = 'Mensaje Enviado, Espere Respuesta del Equipo de Geocommsa A Su Correo';
                 alert(mensaje);
                 </script>";
         echo "
@@ -61,7 +64,7 @@ try {
                 </script> "; 
 
 } catch (Exception $e) {
-    echo 'Hubo Un Error Al Enviar Su Cotizacion: ', $mail->ErrorInfo;
+    echo 'Hubo Un Error Al Enviar Su Mensaje: ', $mail->ErrorInfo;
 }
 
 ?>
