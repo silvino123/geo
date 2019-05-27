@@ -1233,11 +1233,11 @@ button.btn1 {
 
 a.facebook {
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
 }
 a.facebook2 {
     color: #333;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 a.facebook:hover {
@@ -1690,10 +1690,7 @@ a.facebook2:hover {
 }
 
 @media(max-width:320px) {
-    .bt-bottom-info .img-fluid {
-        filter: blur(2px);
-        transform: scale(0.95);
-    }
+    
 }
 /* @media screen and(min-width:600px) {
     .bt-bottom-info .img-fluid {

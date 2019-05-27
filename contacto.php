@@ -59,7 +59,7 @@
                             </div>
                             <div class="address-right">
                                 <h6 style="color:#000000">Telefono</h6>
-                                <p>66-21-20-13-17</p>
+                                <p>66-24-51-88-17</p>
 
                             </div>
 
@@ -89,7 +89,7 @@
                             </div>
                             <div class="address-right">
                                 <h6 style="color:#000000">Ubicacion</h6>
-                                <p >Retorno Colina san miguel #12 Fracc.Colinas San javier Hermosillo, Sonora</p>
+                                <p > Retorno Colina san miguel #12 Fracc.Colinas San javier CP 83146 Hermosillo, Sonora</p>
                             </div>
                         </div>
                     </div>

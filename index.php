@@ -131,14 +131,19 @@
 
                     </a></p> 
                     <br>
-                    <h4 style="color:#333">Dual-Mode</h4>                    
+                    <h4 style="color:#333">Modo Dual</h4>                    
                 <p style=" text-align: justify">Usamos Cobertura de red M2M de modo dual
                    comunicación y seguimiento Satélite-Celular para unir la mejor comunicación en todo
                    el mundo
                                      
                 <a  href="Celular.php">ver más...                 
 
-                    </a></p>                     
+                    </a></p> 
+                    <br>
+                    <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
+                <h4 style="color:#333">Dispositivos</h4>                 
+                <p style=" text-align: justify">GEOCOMMSA desarrolló GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado</p>                
+                <a  href="Dispositivos.php">ver más...</a>                      
             </div>                  
             <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
             <i class="far fa-check-circle" style="color:#ff8000"> INDUSTRIA</i>                 
@@ -161,17 +166,8 @@
                 <a  href="Exploracion.php">ver más...</a>
                 </p>               
             </div>                  
-            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down"> 
-            <i class="far fa-check-circle" style="color:#ff8000"> HARDWARE</i>                 
-                <h4 style="color:#333">Dispositivos</h4>                 
-                <p style=" text-align: justify">GEOCOMMSA desarrolló GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado</p>                
-                <a  href="Dispositivos.php">ver más...</a>           
-            </div>                  
-            <div class="col-md-6 stats_left counter_grid" data-aos="flip-down">                 
-            <!-- <i class="far fa-check-circle" style="color:#ff8000"> SOLUCIONES</i>                 
-                <h4 style="color:#333"></h4>                   
-                <p>TEXTO</p>                -->
-            </div>                  
+                             
+                             
         </div>                  
     </div>                  
     <div class="col-lg-5 stats-right-img" data-aos="fade-left">                 

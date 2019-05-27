@@ -103,7 +103,7 @@
                                                    
                                                   </span>
                                             <h5 style="color:#ff6a00">AUTOMATIZACIÓN</h5>
-                                            <p style=" text-align: justify">Reduce el tiempo de reacción a las excepciones y reduce el tiempo para que el personal mantenga su foco en la administración de los datos y registros, que su correcta administración ayude en el incremento de la productividad de la empresa y que aumente sus utilidades. 
+                                            <p >Reduce el tiempo de reacción a las excepciones y ayuda para que el personal mantenga su foco en la administración de los datos y registros, que su correcta administración ayude en el incremento de la productividad de la empresa y que aumente sus utilidades. 
                                                 <br>
                                                
                                             </p>

@@ -53,32 +53,31 @@
                 <!-- Three columns of text below the carousel -->   
                 <div class="row inner-sec-wthree">      
             
-                    <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
-                        <div style="width: 200px; height: 200px;">
-                            <img src="images/GEOSENSE.jpeg" alt="" class="img-fluid">        
-                        </div>
+                    <div class="col-lg-12 bt-bottom-info" data-aos="fade-right">     
+                    <p style=" text-align: justify">GEOCOMMSA desarrolló 2 modelos de telemetría  GEOSENS M2M y GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado, para luego ser transmitidos hacia nuestro backoffice por alguno de los medios de comunicación electrónica con que cuentan nuestros modelos como son RF, GPRS, Satelital o una combinación de ellos, o de manera dual (Satélite o Celular), así como recibir datos, comandos y mensajes de texto desde nuestro servidor.</p>
+                        
                     </div>      
                             
-                    <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
-                        <h4 style="color:#ff8000">GEOSENS</h4>     
-                        <br>        
-                        <p style=" text-align: justify">GEOCOMMSA desarrolló GEOSENS con tecnología de última generación, diseñados para recopilar datos de las principales funciones del activo monitoreado, para luego ser transmitidos hacia nuestro backoffice por alguno de los medios de comunicación electrónica con que cuentan nuestros modelos como son RF, GPRS, Satelital o una combinación de ellos, o de manera dual (Satélite o Celular), así como recibir datos, comandos y mensajes de texto desde nuestro servidor. </p>  
-                        <a data-toggle="modal" data-target="#modalgeosens" href="#">ver más...</a>
-                    </div>      
+                        
                 </div>    
                 <div class="row inner-sec-wthree">      
             
-                    <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">     
+                    <div class="col-lg-7 bt-bottom-info" data-aos="fade-right">     
                         <div style="width: 200px; height: 200px;">
-                            <img src="images/GEOSENSEM2M.jpeg" alt="" class="img-fluid">                
-                        </div>      
+                            <img src="images/GEOSENSEM2M.jpg" alt="" class="img-fluid">                
+                        </div> 
+                       
+                        <h4 style="color:#ff8000">GEOSENS M2M</h4> 
+                        <a data-toggle="modal" data-target="#modalgeosensm2m" href="#">Características</a>     
                     </div>      
                     <br>     
-                    <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">      
-                        <h4 style="color:#ff8000">GEOSENS M2M</h4>     
-                        <br>        
-                        <p style=" text-align: justify">GEOCOMMSA desarrolló GEOSENS M2M con tecnología de última generación, diseñado para recopilar datos de las principales funciones del activo monitoreado, para luego ser transmitidos hacia nuestro backoffice por alguno de los medios de comunicación electrónica con que cuentan nuestros modelos como son RF, GPRS, Satelital o una combinación de ellos, o de manera dual (Satélite o Celular), así como recibir datos, comandos y mensajes de texto desde nuestro servidor.</p> 
-                        <a data-toggle="modal" data-target="#modalgeosensm2m" href="#">ver más...</a>   
+                    <div class="col-lg-5 bt-bottom-info" data-aos="fade-left">      
+                    <div style="width: 200px; height: 200px;">
+                            <img src="images/GEOSENSE.jpg" alt="" class="img-fluid">        
+                        </div>
+                      
+                    <h4 style="color:#ff8000">GEOSENS</h4> 
+                    <a data-toggle="modal" data-target="#modalgeosens" href="#">Características</a>
                     </div>      
                 </div> 
                      
@@ -101,7 +100,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSE.jpeg" alt="GEOSENS" class="img-fluid" >                
+                            <img src="images/GEOSENSE.jpg" alt="GEOSENS" class="img-fluid" >                
                         </div> </center> 
                     </div>
                     <div class="col-lg-6">
@@ -153,7 +152,7 @@
                 <div class="row">
                     <div class="col-lg-6"><center>
                         <div style="width: 300px; height: 300px;">
-                            <img src="images/GEOSENSEM2M.jpeg" alt="GEOSENSM2M" class="img-fluid" >                
+                            <img src="images/GEOSENSEM2M.jpg" alt="GEOSENSM2M" class="img-fluid" >                
                         </div>  </center>
                     </div>
                     <div class="col-lg-6">

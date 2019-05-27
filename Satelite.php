@@ -44,7 +44,7 @@
                 Satélite                                                                                                                                                
             </li>                                                                                                                                               
             <li class="breadcrumb-item">                                                                                                                                                
-                    <a href="Dualmode.php">Dual-Mode</a>                                                                                                                                                
+                    <a href="Dualmode.php">Modo Dual</a>                                                                                                                                                
                 </li>                                                                                                                                               
     </ol>                                                                                                                                               
     <!--//banner-->                                                                                                                                             
@@ -83,9 +83,7 @@
                                         limitada o sin ningún tipo de infraestructura de telecomunicaciones y los servicios                                                                                                                                             
                                         aeronáuticos sin aplicaciones globales son los principales argumentos impulsores de los                                                                                                                                             
                                         llamados Servicios Móviles por Satélite (MSS).</p>
-                                        <p style=" text-align: justify">
-                                        La comunicación satelital aumenta la cobertura en zonas donde la red celular no está
-                                       disponible o no es fiable, al igual que puede reducir las costosas tarifas de itinerancia celular.</p>                                                                                                                                               
+                                                                                                                                                                                      
                                                                                                                                                                             
                                                                                                                                                         
                         </div>                                                                                                                                              

@@ -45,7 +45,7 @@
                <a href="Satelite.php"> Satélite</a>                                                                                                                                             
             </li>                                                                                                                                               
             <li class="breadcrumb-item active">                                                                                                                                                
-                    Dual-Mode                                                                                                                                             
+                    Modo Dual                                                                                                                                             
                 </li>                                                                                                                                               
     </ol>                                                                                                                                               
     <!--//banner-->                                                                                                                                             

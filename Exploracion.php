@@ -47,11 +47,12 @@
                 </li>                                                                                                                                                                                                                                   
     </ol>                                                                                                                                                                                                                                   
     <!-- //banner-->                                                                                                                                                                                                                            
-    <section class="banner-bottom">     
-            <div class="container">     
+              
+        <section class="services">
+        <div class="container">     
                     <h3 class="tittle">SOLUCIONES EN EXPLORACIÓN</h3>     
                 <!-- Three columns of text below the carousel -->       
-                <div class="row inner-sec-wthree">      
+                     
              
                     <div class="col-lg-12 bt-bottom-info" data-aos="fade-right">      
                              
@@ -59,14 +60,8 @@
                        
                     </div> 
                              
-                </div>      
-                   
-                        
-            </div>      
-            <!-- /.row -->      
-        </section>             
-        <section class="services">
-                        
+              
+                <br>
                         <div class="container ">                 
                             <h3  >GEOCOMMSA  permite ejecutar los 5 principios para el desarrollo e implementación exitoso de un sistema de información minera empresarial.</h3>                   
                             <div class="row inner-sec-wthree">                  
@@ -158,6 +153,11 @@ De manera periódica se transmiten los datos capturados del los principales par�
 
            <p style=" text-align: justify">Motor: Presión de aceite, temperatura de refrigerante, RPM del motor, consumo de combustible, horas maquina trabajadas y Relanty.</p>                                                                                                                                                                                                                           
            <p style=" text-align: justify">Cabezal: presión de rotación del cabezal, presión de empuje de broca, presión del flujo de lodo, y RPM del cabezal.</p>
+           <p style=" text-align: justify">Bomba de Iodos: Caudal de agua inyectada al pozo lo que permite tener un control del uso del vital liquido en la perforación.</p> 
+           <p style=" text-align: justify">Control de inventario de agua: Control de inventario de brocas en el proyecto.</p>
+           <p style=" text-align: justify">Control de asistencia: Con la integración de un sistema de RFID permite a la empresa tener un control sobre la
+           puntualidad de sus equipos de perforación en los sitios del proyecto, permitiendo tener un control de entradas, salidas, cambios de turno, y tiempo de alimentos.
+           </p>
            <h6>3. Seguridad.</h6>
             <p style=" text-align: justify">GEOCOMMSA y su tecnología le permiten por medio de la geolocalización de llevar un control de sus activos en tiempo real, ubicándolos en un mapa para tener un control de cada uno de ellos, ayudándole a planear la reubicación de sus equipos y mejorar la seguridad de su recurso humano y mecánico.</p>
             <h6>4. Robusto y compacto</h6>

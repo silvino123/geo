@@ -32,7 +32,7 @@ try {
 
     //Server settings
     $mail->SMTPDebug = 0;                                 // Enable verbose debug output
-    $mail->isSMTP();                                      // Set mailer to use SMTP
+    //$mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'geocommsa@gmail.com';                 // SMTP username
@@ -45,13 +45,13 @@ try {
     
     // $mail->addAddress('jesusfigueroa64@gmail.com', 'Jesus Figueroa');
     // $mail->addAddress('contacto@geocommsa.com', 'Geocommsa');
-    $mail->addAddress('jose.jrmg27@gmail.com', 'Jose'); 
+    //$mail->addAddress('jose.jrmg27@gmail.com', 'Jose'); 
     $mail->addAddress('alexmillanes30@gmail.com', 'Silvino');
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $subject;
     $mail->Body    = $message;
-    //$mail->AddAttachment($Img['tmp_name'], $Img['name']);
+  
     $mail->send();
     echo "
                 <script language='JavaScript'>
